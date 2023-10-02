@@ -1,9 +1,4 @@
 
-<a href="https://github.com/alikera/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alikera&show_icons=true&theme=radical&include_all_commits=true"/>
-</a>
-
-
 <a href="https://github.com/alikera/top-langs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beafshar&layout=compact&theme=radical" />
 </a>
