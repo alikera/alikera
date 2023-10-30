@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alikeramati79@gmail.com**
 
-- 📄 Know about my experiences [https://alikera.github.io/files/cv-alikeramati.pdf](https://alikera.github.io/files/cv-alikeramati.pdf)
+- 📄 Know about my experiences [My CV](https://alikera.github.io/files/cv-alikeramati.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
