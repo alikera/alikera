@@ -22,12 +22,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikera&show_icons=true&locale=en&layout=compact" alt="alikera" /></p>
 
 
-<!--
 
 <a href="https://github.com/alikera/top-langs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beafshar&layout=compact&theme=radical" />
 </a>
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
