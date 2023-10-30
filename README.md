@@ -24,7 +24,7 @@
 
 
 <a href="https://github.com/alikera/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beafshar&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikera&layout=compact&theme=radical" />
 </a>
 
 <!--
