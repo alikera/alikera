@@ -23,6 +23,7 @@
 <a href="https://github.com/alikera/top-langs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikera&layout=compact&theme=radical" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikera&layout=compact&card_width=350&langs_count=8&hide=css,html,jupyter,%20notebook,javascript,tex,Assembly,Makefile,Java,Perl,Jasmin,SCSS&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
