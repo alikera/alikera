@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alikera&label=Profile%20views&color=bbb7ae&style=flat" alt="alikera" /> </p>
-
 <h1 align="center">Hi 👋, I'm Ali Keramati</h1>
 <h3 align="center">Passionate EdTech developer from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/65/ee/35/65ee350c7875c9b422325141ac3f262b.gif">
@@ -27,6 +25,9 @@
 
 
 <a href="https://github.com/alikera/top-langs"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikera&layout=compact&hide=Verilog&theme=radical" /> </a> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alikera&label=Profile%20views&color=bbb7ae&style=flat" alt="alikera" /> </p>
+
 <!--
 Here are some ideas to get you started:
 
