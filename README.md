@@ -1,5 +1,3 @@
-[![MasterHead]]
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alikera&label=Profile%20views&color=bbb7ae&style=flat" alt="alikera" /> </p>
 
 <h1 align="center">Hi 👋, I'm Ali Keramati</h1>
