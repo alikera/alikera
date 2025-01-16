@@ -2,9 +2,9 @@
 <h3 align="center">Passionate EdTech developer from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/65/ee/35/65ee350c7875c9b422325141ac3f262b.gif">
   
-- 🔭 I’m currently working on [aiedut](https://aiedut.com/)
+- 🔭 I’m currently working at [Digital Learning Lab](https://www.digitallearninglab.org/)
 
-- 📫 How to reach me **alikeramati79@gmail.com**
+- 📫 How to reach me **a.kera@uci.edu**
 
 - 📄 Know about my experiences [My CV](https://alikera.github.io/files/cv-alikeramati.pdf)
 
